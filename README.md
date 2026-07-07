@@ -1,2 +1,2 @@
-# pizza-sales-performance-dashboard
-Interactive Excel dashboard for analyzing pizza sales, delivery trends, and operational performance
+# Pizza Sales Performance Dashboard
+This project features an interactive Microsoft Excel dashboard designed to analyze pizza sales, delivery performance, customer ordering patterns, and operational efficiency across multiple restaurants. By transforming raw operational data into clear visual KPIs, the dashboard identifies delivery bottlenecks, peak ordering periods, and key performance trends to support faster deliveries and data-driven business decisions.
